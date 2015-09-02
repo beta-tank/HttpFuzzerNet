@@ -1,5 +1,5 @@
 # HTTP Fuzzer.Net
-Simple HTTP Fuzzer writen on C#. This project is created in the education purposes.
+Simple HTTP Fuzzer writen on C#. This project was created in the education purposes.
 [![Build status](https://ci.appveyor.com/api/projects/status/kv005l3dyxomxob4?svg=true)](https://ci.appveyor.com/project/beta-tank/httpfuzzernet)
 ![Screenshot](/Common/Screenshot1.png "Application window")
 
